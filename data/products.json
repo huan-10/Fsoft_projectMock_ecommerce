@@ -1,0 +1,5037 @@
+[
+  {
+    "_id": {
+      "$oid": "62c4711c062128444ad591a1"
+    },
+    "Shipping": true,
+    "color": "yellow",
+    "name": "Allover Plants Print Square Neck Knot Front Dress",
+    "description": "Allover Plants Print Square Neck Knot Front Dress",
+    "brand": "Boho",
+    "slug": "Women's Fashion",
+    "category": {
+      "$oid": "62c46ff0062128444ad59193"
+    },
+    "subCategories": [
+      {
+        "$oid": "62c46ffd062128444ad59199"
+      }
+    ],
+    "details": [
+      {
+        "name": "Style",
+        "value": "Boho",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a2"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plants, All Over Print",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a3"
+        }
+      },
+      {
+        "name": "Details",
+        "value": "Knot",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a4"
+        }
+      },
+      {
+        "name": "Type",
+        "value": "A Line",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a5"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Square Neck",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a6"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a7"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Puff Sleeve",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a8"
+        }
+      },
+      {
+        "name": "Waist Line",
+        "value": "High Waist",
+        "_id": {
+          "$oid": "62c4711c062128444ad591a9"
+        }
+      },
+      {
+        "name": "Hem Shaped",
+        "value": "Flared",
+        "_id": {
+          "$oid": "62c4711c062128444ad591aa"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Long",
+        "_id": {
+          "$oid": "62c4711c062128444ad591ab"
+        }
+      },
+      {
+        "name": "Fit Type",
+        "value": "Regular Fit",
+        "_id": {
+          "$oid": "62c4711c062128444ad591ac"
+        }
+      },
+      {
+        "name": "Fabric",
+        "value": "Non-Stretch",
+        "_id": {
+          "$oid": "62c4711c062128444ad591ad"
+        }
+      },
+      {
+        "name": "Material",
+        "value": "Polyester",
+        "_id": {
+          "$oid": "62c4711c062128444ad591ae"
+        }
+      }
+    ],
+    "questions": [],
+    "subProducts": [
+      {
+        "sku": "sw2206138988536738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041164/products/j9h8giisorvqwnxgy6lx.webp",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041168/products/tpwwbcdjxdzk1qok7jqu.webp",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041171/products/lopvo38miankt6j0usaz.webp",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041176/products/mjrdih9alzizp5lkb0ty.webp",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041179/products/ac3homl0yeimydql5rq4.webp"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 15,
+            "price": 17,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 19,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 0,
+            "price": 21,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 28,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c062128444ad591af"
+        }
+      },
+      {
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045381/products/qbwsyo2xg26zxyygtuzs.webp",
+            "public_url": "products/qbwsyo2xg26zxyygtuzs"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045385/products/fxuhya9s4usojgdfune9.webp",
+            "public_url": "products/fxuhya9s4usojgdfune9"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045389/products/acscvdlnkyt8r7kifsw5.webp",
+            "public_url": "products/acscvdlnkyt8r7kifsw5"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045392/products/suok4nz4ocdmegkzmqvs.webp",
+            "public_url": "products/suok4nz4ocdmegkzmqvs"
+          }
+        ],
+        "sku": "vc22142578988545614",
+        "description_images": [],
+        "color": {
+          "color": "#dac4ac",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045396/products/ouh3i2klgrmwluexm3q9.webp"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 1456,
+            "price": 15,
+            "_id": {
+              "$oid": "62c481967d2df7b52aa1f9e3"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 1700,
+            "price": 21,
+            "_id": {
+              "$oid": "62c481967d2df7b52aa1f9e4"
+            }
+          }
+        ],
+        "discount": 10,
+        "_id": {
+          "$oid": "62c481967d2df7b52aa1f9e2"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-07-05T17:13:00.324Z"
+    },
+    "updatedAt": {
+      "$date": "2022-07-09T09:44:46.823Z"
+    },
+    "__v": 17,
+    "numReviews": 5,
+    "rating": 3.5,
+    "refundPolicy": "30 days",
+    "reviews": [
+      {
+        "reviewBy": {
+          "$oid": "62b33178fbcc6f0282db0606"
+        },
+        "rating": 1,
+        "review": "aaaaaaaaaaaaaaa",
+        "size": "S",
+        "style": {
+          "color": "#dac4ac",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045396/products/ouh3i2klgrmwluexm3q9.webp"
+        },
+        "fit": "Small",
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657145489/reviews/whcchkvkbd4dypptoccx.webp",
+            "public_url": "reviews/whcchkvkbd4dypptoccx"
+          }
+        ],
+        "_id": {
+          "$oid": "62c6089247a21fb57bb8b234"
+        },
+        "createdAt": {
+          "$date": "2022-07-06T22:11:30.149Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-09T09:44:46.559Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62c69fc002820c409dcce9ea"
+        },
+        "rating": 4,
+        "review": "i like it  a lot but a bit large for me for size L",
+        "size": "L",
+        "style": {
+          "color": "#dac4ac",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045396/products/ouh3i2klgrmwluexm3q9.webp"
+        },
+        "fit": "Large",
+        "images": [],
+        "_id": {
+          "$oid": "62c6a03702820c409dcce9f2"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T08:58:31.646Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T08:58:31.646Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62a22b5cd0e120974f5c866e"
+        },
+        "rating": 5,
+        "review": "amaaaaaaaaaaaaaaaaaaaaaaazing",
+        "size": "L",
+        "style": {
+          "color": "#dac4ac",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045396/products/ouh3i2klgrmwluexm3q9.webp"
+        },
+        "fit": "Large",
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657189685/reviews/i6wmqtwnjcolkguit6qi.webp",
+            "public_url": "reviews/i6wmqtwnjcolkguit6qi"
+          }
+        ],
+        "_id": {
+          "$oid": "62c6b13402820c409dccea08"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T10:11:00.304Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T10:28:07.389Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62a22d98d0e120974f5c8671"
+        },
+        "rating": 2.5,
+        "review": "aaaaaaaa",
+        "size": "S",
+        "style": {
+          "color": "#ecd297",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041179/products/ac3homl0yeimydql5rq4.webp"
+        },
+        "fit": "True to size",
+        "images": [],
+        "_id": {
+          "$oid": "62c6d15802820c409dccea3d"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T12:28:08.226Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T12:30:52.277Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62a2281cd0e120974f5c866c"
+        },
+        "rating": 5,
+        "review": "bbbbbbbbbbbbbb",
+        "size": "S",
+        "style": {
+          "color": "#ecd297",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041179/products/ac3homl0yeimydql5rq4.webp"
+        },
+        "fit": "True to size",
+        "images": [],
+        "_id": {
+          "$oid": "62c6d29602820c409dccea5e"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T12:33:26.719Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T12:33:26.719Z"
+        }
+      }
+    ],
+    "shipping": "2"
+  },
+  {
+    "_id": {
+      "$oid": "6342c8ce3a608a950d7e8036"
+    },
+    "Shipping": true,
+    "color": "orange",
+    "name": "Men Drop Shoulder Metallic Tee",
+    "description": "Men Drop Shoulder Metallic Tee",
+    "brand": "Metallic ",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432b478d6"
+    },
+    "subCategories": [],
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665321139/products/qwpijk74an4hss8pcefr.webp",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665321143/products/moxnvgqyuavpnthbysey.webp",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665321148/products/ul0yyluoxu7oz9ywmrfl.webp",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665321152/products/rmuo6ooadi0ukfziq9sz.webp",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665321156/products/etlwzefambmwr2j3abf5.webp",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665321160/products/skjcagnshk0sf0om7oup.webp",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665321165/products/mbnvhr5arty9tlmyhyr2.webp"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 19,
+            "_id": {
+              "$oid": "6342c8ce3a608a950d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 21,
+            "_id": {
+              "$oid": "6342c8ce3a608a950d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e803e"
+        }
+      }
+    ],
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083a950d7e8s5036"
+    },
+    "color": "#333",
+    "Shipping": true,
+    "name": "Zadez GP-803B Bluetooth Earphone Headset",
+    "description": "Zadez GP-803B Bluetooth Earphone Headset",
+    "brand": "Zadez",
+    "slug": "Electronics",
+    "category": {
+      "$oid": "62cfeb1es46119f0cd3432232b4578d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a60468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://cdn.tgdd.vn/comment/56761256/z5318403615234_698bc7cb27a547d2d8e565a1fd9665689LZN7.jpg",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://cdn.tgdd.vn/comment/56418203/1000000627H398Q.jpg",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-11.jpg"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 100,
+            "_id": {
+              "$oid": "6342c8ce3a608a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 115,
+            "_id": {
+              "$oid": "6342c8ce3a608a9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a560283a950d7e8036"
+    },
+    "color": "yellow",
+    "Shipping": false,
+    "name": "PLUMP RIGHT BACK PRIMER SERUM AND PRIMER MINI",
+    "description": "PLUMP RIGHT BACK PRIMER SERUM AND PRIMER MINI",
+    "brand": "NYX Professional Makeup",
+    "slug": "Beauty, Health & Hair",
+    "category": {
+      "$oid": "62cfeb1e119f0cd4322232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a60468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw09644b73/ProductImages/2022/FACE/PLUMP-RIGHT-BACK-PRIMER/MINI/NYX-PMU-Makeup-Face-Primer-PLUMP-RIGHT-BACK-PRIMER-SERUM-MINI-PRBPS01M-0800897132927-ClosedSwatch.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwf5120847/ProductImages/2022/FACE/PLUMP-RIGHT-BACK-PRIMER/MINI/NYX-PMU-Makeup-Face-Primer-PLUMP-RIGHT-BACK-PRIMER-SERUM-MINI-PRBPS01M-0800897132927-Front.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwa05a6c8d/ProductImages/2022/FACE/PLUMP-RIGHT-BACK-PRIMER/MINI/NYX-PMU-Makeup-Face-Primer-PLUMP-RIGHT-BACK-PRIMER-SERUM-MINI-PRBPS01M-0800897132927-Applicator.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwa05a6c8d/ProductImages/2022/FACE/PLUMP-RIGHT-BACK-PRIMER/MINI/NYX-PMU-Makeup-Face-Primer-PLUMP-RIGHT-BACK-PRIMER-SERUM-MINI-PRBPS01M-0800897132927-Applicator.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 15,
+            "_id": {
+              "$oid": "6342c8ce3a608a9er50d7e8303f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 20,
+            "_id": {
+              "$oid": "6342c8ce3a608a9tt50d7e83040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608y3ea950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083a9s450d7e8036"
+    },
+    "color": "#fff",
+    "Shipping": true,
+    "name": "Nike Air Force 1 '07",
+    "description": "Nike Air Force 1 '07",
+    "brand": "Nike",
+    "slug": "Shoes,Sneakers,Heels",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432232wb478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a9503d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a9550d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a95670d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a5608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a6034684a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a604683a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "444444444444444444433453"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d98fd922-1a53-45ee-acf1-94d823f457d5/air-force-1-07-shoes-b0f549.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/897d0381-db63-427f-befa-88122bd624cd/air-force-1-07-shoes-b0f549.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d3cd03f3-8e2a-40ea-8f71-6ed22fb951bb/air-force-1-07-shoes-b0f549.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f7917ca6-0bcd-4278-8938-83dac62ec833/air-force-1-07-shoes-b0f549.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/074209d4-27b8-4764-979a-d96779d870b6/air-force-1-07-shoes-b0f549.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d020759d-5719-4ad7-bd23-adf33a4137df/air-force-1-07-shoes-b0f549.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-11.jpg"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 150,
+            "_id": {
+              "$oid": "6342c8ce3a6084a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 155,
+            "_id": {
+              "$oid": "6342c8ce3a608a94tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yeae950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56h3h5083a950d7e8036"
+    },
+    "color": "#333",
+    "Shipping": true,
+    "name": "Nike Dri-FIT ADV Fly",
+    "description": "Unstructured Reflective Design Cap",
+    "brand": "Nike",
+    "slug": "Accessories",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a60821a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a950d27e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a95320d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a942350d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603423468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a60234468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce362343a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/33ede104-9c42-4718-87ae-d8d99da8340c/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/90bf66cb-7451-4277-8262-9c1db51120d2/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0dd63d20-cd8b-42b7-9d0b-aa41ed8cce1d/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/30759b10-b34f-4089-af50-b73e72e6da53/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0dd63d20-cd8b-42b7-9d0b-aa41ed8cce1d/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 425,
+            "price": 40,
+            "_id": {
+              "$oid": "6342c8cwe3a608a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 301,
+            "price": 51,
+            "_id": {
+              "$oid": "6342c8ce3a323608a9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608ye223a950d7e803e"
+        }
+      },
+      {
+        "sku": "sw22061389885s32336738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d446f265-4e48-4757-8007-4eb83f298371/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5dc20045-f3e6-4b83-8e72-f7a453a37b7e/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5dc20045-f3e6-4b83-8e72-f7a453a37b7e/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 15,
+            "price": 17,
+            "_id": {
+              "$oid": "62c4711c32062128444ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 19,
+            "_id": {
+              "$oid": "62c4711c06223128444ad591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 0,
+            "price": 21,
+            "_id": {
+              "$oid": "62c4711c062123228444ad591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 28,
+            "_id": {
+              "$oid": "62c4711cd062222128444ad591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c0621s28223444ad591af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083332a950d7e8036"
+    },
+    "color": "#34ebe8",
+    "Shipping": false,
+    "name": "Nike Dri-FIT Alate",
+    "description": "Women's Minimalist Light-Support Padded",
+    "brand": "Nike",
+    "slug": "Sports & Entertainment",
+    "category": {
+      "$oid": "62cfeb1e119f0cd33243223223b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a60468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e1de0383-5f47-4da7-9559-66b6433264d2/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ecc0b2a-73cf-4e9c-bf56-e4cc15787019/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9073652-9090-469b-9790-0a9fda3f3969/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/78b958e9-5067-47b6-8793-54571b276ffb/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/498ba151-80cf-4fe1-a165-dec27a1d4fb2/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e4745765-a73c-448d-a4b4-ef2b37dea818/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a15de0eb-7ef6-4247-9be4-6705764bff79/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 47,
+            "price": 44,
+            "_id": {
+              "$oid": "6342c8cez3a608a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 50,
+            "_id": {
+              "$oid": "6342c8ce3a608a9tt5350d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea92350d7e803e"
+        }
+      },
+      {
+        "sku": "sw22061389884235s36738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a9bff3a8-4324-4cac-a00d-1f700c1d1af7/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6208210a-410c-4625-9ad6-d6bb2d95d085/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3c82d192-f4fa-48f3-9494-5afa37589c35/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e84eb598-b364-4718-9a9a-c3f36ee41c8f/dri-fit-alate-minimalist-light-support-padded-sports-bra-wDfLv7.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 145,
+            "price": 44,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 51,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 0,
+            "price": 55,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b2"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c0621s28444ad591af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083ass35950d7e8036"
+    },
+    "color": "#333",
+    "Shipping": true,
+    "name": "Air Jordan 1 Mid SE Craft",
+    "description": "Air Jordan 1 Mid SE Craft",
+    "brand": "Nike",
+    "slug": "Gifts & Crafts",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432232353343b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8c54e3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce334a60dd8a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "3434435634"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce4534534336a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce4333a603468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a6430468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce36443a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/96e2c937-2f9c-4952-bea3-ff234c767d0a/air-jordan-1-mid-se-craft-shoes-Z3Lx9g.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bc06f0f3-4069-4b9c-b820-c6b375cb863b/air-jordan-1-mid-se-craft-shoes-Z3Lx9g.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/08a43af2-88e9-428a-9c04-5b53e2e40699/air-jordan-1-mid-se-craft-shoes-Z3Lx9g.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/850a0c7a-6fa3-4785-be15-3b361e634750/air-jordan-1-mid-se-craft-shoes-Z3Lx9g.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2a2e2a10-a5e0-42c6-9589-199d56d12e5f/air-jordan-1-mid-se-craft-shoes-Z3Lx9g.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bbaab7de-a520-4952-b84b-3ce6a9b0716e/air-jordan-1-mid-se-craft-shoes-Z3Lx9g.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/850a0c7a-6fa3-4785-be15-3b361e634750/air-jordan-1-mid-se-craft-shoes-Z3Lx9g.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 150,
+            "_id": {
+              "$oid": "6342c8ce3a608sa9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 175,
+            "_id": {
+              "$oid": "6342c8ce3a608a9t3t50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea9540d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083s34a950d7e8036"
+    },
+    "color": "#eb34eb",
+    "Shipping": true,
+    "name": "Nike Universa",
+    "description": "Women's Medium-Support High-Waisted 7/8",
+    "brand": "Nike",
+    "slug": "Women's Fashion",
+    "category": {
+      "$oid": "62cfeb1e119f0cd43223342b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8cse3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce33a60dd8a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a3608a950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce3363a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a3603468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce33a60468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8c3e363a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6b0ba24f-af5f-41dc-9a28-14d2ea980f38/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c962776d-b9fe-48b1-b2be-793944a74ab0/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f4af05af-a5d6-461b-b917-ac2b332e884d/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9bbc55e6-baa4-4579-967e-80fe00af49a8/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/049f3bc6-7dd0-425a-a906-b186b2918612/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5a91ed51-f277-4f59-8bb4-397e6123b0a3/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/57d055d3-664a-4587-bcd6-a205debf0965/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 100,
+            "_id": {
+              "$oid": "6342c8ce3a6d08a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 115,
+            "_id": {
+              "$oid": "6342c8ce3ad608a9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608ydea950d7e803e"
+        }
+      },
+      {
+        "sku": "sw22061389885sd367338",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e4626630-1535-40a0-bc62-89f5abf2eeb2/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4e11fa00-b0fb-4ac2-89f9-df9b801ce542/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a4e7f0c6-698d-4df3-b620-fcb538b934cc/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5d21b6db-c1ce-491f-a775-ee9d251c6be8/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e4626630-1535-40a0-bc62-89f5abf2eeb2/universa-support-high-waisted-7-8-leggings-with-pockets-77X1ds.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 15,
+            "price": 99,
+            "_id": {
+              "$oid": "62c4711c062128444a3d591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 100,
+            "_id": {
+              "$oid": "62c4711c062128444a3d591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 0,
+            "price": 111,
+            "_id": {
+              "$oid": "62c4711c0621284443ad591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 121,
+            "_id": {
+              "$oid": "62c4711cd0621284443ad591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c0621s284344ad591af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083a950d7e803s6"
+    },
+    "color": "#333",
+    "Shipping": false,
+    "name": "Nike Sportswear",
+    "description": "Men's Oversized T-shirt",
+    "brand": "Nike",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfeb1e119f0c3d432232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a9530d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a9530d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a9350d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a950d37e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a6034683a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a604683a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a6308a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7feabe43-c08c-4e32-bb19-d1fab0615fee/sportswear-oversized-t-shirt-ptNVST.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1116ec78-5b3f-469a-a352-3632e48e770a/sportswear-oversized-t-shirt-ptNVST.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7268fea3-8eb3-490d-96e4-964a6dae314d/sportswear-oversized-t-shirt-ptNVST.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6063dae6-fa05-4a0c-b7b5-fb816f26a450/sportswear-oversized-t-shirt-ptNVST.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1ea7ed04-5964-4ad8-a224-b884d15fb60c/sportswear-oversized-t-shirt-ptNVST.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 40,
+            "_id": {
+              "$oid": "6342c8ce3a6s08a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 45,
+            "_id": {
+              "$oid": "6342c8ce3a6038a9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608ye5a950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083a950d37ew8036"
+    },
+    "color": "#333",
+    "Shipping": true,
+    "name": "Casio Men's Watch MTP-1375L-1AVDF",
+    "description": "Casio Men's Watch MTP-1375L-1AVDF",
+    "brand": "Casio",
+    "slug": "Jewlery & Watches",
+    "category": {
+      "$oid": "62cfeb1e119f0cd4323232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a6038a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd38a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce3353a608a950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce3363a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a6033468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a604368a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a3608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://media.shopdongho.com/2023/04/dong-ho-casio-mtp-1375l-1avdf-nam-pin-quartz-day-da-8.jpg",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/02/dong-ho-casio-mtp-1375l-1avdf-nam-pin-quartz-day-da-9.jpeg",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/04/dong-ho-casio-mtp-1375l-1avdf-nam-pin-quartz-day-da-5.webp",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/02/dong-ho-casio-mtp-1375l-1avdf-nam-pin-quartz-day-da-6.jpeg",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/04/dong-ho-casio-mtp-1375l-1avdf-nam-pin-quartz-day-da-10.webp",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-11.jpg"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 90,
+            "_id": {
+              "$oid": "6342c8ce3a608a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 102,
+            "_id": {
+              "$oid": "6342c8ce3a608a9tet50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea950d7ed803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083a9520d7e8036"
+    },
+    "color": "#eb34eb",
+    "Shipping": true,
+    "name": "BARE WITH ME SKIN SERUM BRUSH",
+    "description": "BARE WITH ME SKIN SERUM BRUSH",
+    "brand": "NYX Professional Makeup",
+    "slug": "Beauty, Health & Hair",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432232b478ds6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a950sd7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a950sd7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a95s0d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a9s50d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a6034s68a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a60s468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a950d7e803sd"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw04a01f32/ProductImages/2021/Face/BWM%20Skin%20Serum%20Brush/NYX-PMU-Makeup-Tools-And-Extras-Brush-BARE-WITH-ME-SKIN-SERUM-BRUSH-SSB01-000-0800897099305-Front.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwd32dac35/ProductImages/2021/Face/BWM%20Skin%20Serum%20Brush/NYX-PMU-Makeup-Tools-And-Extras-Brush-BARE-WITH-ME-SKIN-SERUM-BRUSH-SSB01-000-0800897099305-Applicator.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw6166b51f/ProductImages/2021/Face/BWM%20Skin%20Serum%20Brush/NYX-PMU-Makeup-Face-Foundation-BWMLSS03-MEDIUM-000-0800897007331-Tutorial-B-ALICE-02.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw6166b51f/ProductImages/2021/Face/BWM%20Skin%20Serum%20Brush/NYX-PMU-Makeup-Face-Foundation-BWMLSS03-MEDIUM-000-0800897007331-Tutorial-B-ALICE-02.jpg?sw=485&sh=485&sm=cut&sfrm=jpg&q=70"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 10,
+            "_id": {
+              "$oid": "6342c8ce3a608a9ser50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 14,
+            "_id": {
+              "$oid": "6342c8ce3a608a9stt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea9s50d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "634sce3a56083a950d7e8036"
+    },
+    "color": "#fff",
+    "Shipping": true,
+    "name": "Nike Revolution 7",
+    "description": "Men's Road Running Shoes",
+    "brand": "Nike",
+    "slug": "Shoes,Sneakers,Heels",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432232b2478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608ad7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a958038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a650d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a9e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603468a9e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a60468a9e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a9e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c8136315-d867-4283-80d0-72d30ca8cd94/revolution-7-road-running-shoes-NNc8Ll.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/68633be1-577b-4d93-a936-61646a6dd54d/revolution-7-road-running-shoes-NNc8Ll.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e74befcf-17c1-4d7c-be71-7bd53ca76f74/revolution-7-road-running-shoes-NNc8Ll.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9a90d0a3-c393-44c8-a6a9-d4e40c73755d/revolution-7-road-running-shoes-NNc8Ll.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7ef86603-cb5e-439f-a52f-5536b320e0d2/revolution-7-road-running-shoes-NNc8Ll.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf672725-dbfe-4b17-8fca-3d99784bf688/revolution-7-road-running-shoes-NNc8Ll.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6aac52e1-9a2a-46d3-9c10-d7c3396b758c/revolution-7-road-running-shoes-NNc8Ll.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 75,
+            "price": 77,
+            "_id": {
+              "$oid": "6342c8ce3a69er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 81,
+            "_id": {
+              "$oid": "6342c8ce3a608a9t0d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608a0d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56087e8036"
+    },
+    "color": "#333",
+    "Shipping": false,
+    "name": "Nike Heritage",
+    "description": "Eugene Backpack (23L)",
+    "brand": "Nike",
+    "slug": "Accessories",
+    "category": {
+      "$oid": "62cfeb1e119f32232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342ce3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce0dd8a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a6050d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a6a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a604680d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a97e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/faed1deb-18aa-44ff-b4c7-dcbd0e7f5a5f/heritage-eugene-backpack-GhRMf7.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/957f942f-0fd5-433f-ba61-d34a18a64827/heritage-eugene-backpack-GhRMf7.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/49bc90b5-65ad-4395-b332-eb133f46b7ee/heritage-eugene-backpack-GhRMf7.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1a48676d-d380-4f20-8e30-d859b6283649/heritage-eugene-backpack-GhRMf7.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d572630a-d3cb-4dd4-b880-77fdbd2b6b18/heritage-eugene-backpack-GhRMf7.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/26329b1f-d945-49ec-949b-2eeae85273f9/heritage-eugene-backpack-GhRMf7.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#60183406",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f0a263f0-c454-4398-90fd-fe1f449a070b/heritage-eugene-backpack-GhRMf7.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 39,
+            "_id": {
+              "$oid": "63423c83a608a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 41,
+            "_id": {
+              "$oid": "6342c8ce3aa9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608a950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63sce3a56083a950sd7e8036"
+    },
+    "color": "pink",
+    "Shipping": true,
+    "name": "Nike Pro Swoosh",
+    "description": "Girls' Sports Bra",
+    "brand": "Nike",
+    "slug": "Sports & Entertainment",
+    "category": {
+      "$oid": "62cfeb1e11932232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a60"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a60039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce33d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603468a803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a6046850d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363ad7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fe076441-7118-478f-8159-f28fec506e10/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/71791c2d-6c7d-4a1b-87a2-99a399e1b3e7/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7ca04b0c-9c7a-4e03-a33c-075266154dea/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/af7a980f-6e14-4eae-894d-b947322b81d6/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dad642ea-cdd4-464b-b664-113337dca4ac/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c6adc24a-7d9c-4eea-9505-7a883a04a25e/pro-swoosh-sports-bra-6lH4h9.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 45,
+            "price": 49,
+            "_id": {
+              "$oid": "6342c8ca9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 45,
+            "_id": {
+              "$oid": "6342c8ce3a608a9t040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yed7e803e"
+        }
+      },
+      {
+        "sku": "sw22061389738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b21be73b-1076-46c9-90cb-891a6aff9128/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9fa2fa12-b02f-49a6-8a8d-90ffbbf7199f/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f8537e4-5621-449c-b782-706c25f2f6f3/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/da696549-de8a-4162-ac15-bb1a90273cef/pro-swoosh-sports-bra-6lH4h9.png",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/211a1a4c-9801-49e4-b2f7-ec5481a0a11c/pro-swoosh-sports-bra-6lH4h9.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 135,
+            "price": 48,
+            "_id": {
+              "$oid": "62c41c062128444ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 144,
+            "price": 51,
+            "_id": {
+              "$oid": "62c47112128444ad591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 211,
+            "price": 53,
+            "_id": {
+              "$oid": "62c4711c06444ad591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 28,
+            "_id": {
+              "$oid": "62c4711cd06214ad591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c06244ad591af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c3343583a950d7e8036"
+    },
+    "color": "#fff",
+    "Shipping": true,
+    "name": "Nike Sportswear",
+    "description": "Faux Fur Tote (10L)",
+    "brand": "Nike",
+    "slug": "Gifts & Crafts",
+    "category": {
+      "$oid": "62cfeb1e119f0c45478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a34950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a950d734e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a95032d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a95340d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603468a94550d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce334a60468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a34950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c2baa15b-9ef3-4bbe-a4d2-9ea2e34e92c5/sportswear-faux-fur-tote-vTrb26.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7dcf8c0a-4dd2-4480-80a7-70adf8f0ce5e/sportswear-faux-fur-tote-vTrb26.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/79c47ae2-7285-4d2f-b8a2-4363e56430a8/sportswear-faux-fur-tote-vTrb26.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/51ad50bc-ad4c-4a85-bf91-9c9883e7a990/sportswear-faux-fur-tote-vTrb26.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/156ccadc-0281-4bfe-9aea-ff162742d04d/sportswear-faux-fur-tote-vTrb26.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8f48f815-0198-41b6-8da9-88d1b7cc077f/sportswear-faux-fur-tote-vTrb26.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24ec02bc-1fb8-4f81-9944-8b6f396fbdc8/sportswear-faux-fur-tote-vTrb26.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 75,
+            "price": 69,
+            "_id": {
+              "$oid": "6342c8ce3aa9er50fd7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 74,
+            "_id": {
+              "$oid": "6342c8ce3a608a9444tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea34950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "633445c83534548036"
+    },
+    "color": "#fff",
+    "Shipping": false,
+    "name": "Nike Sportswear",
+    "description": "Women's Over-Oversized Cardigan",
+    "brand": "Nike",
+    "slug": "Women's Fashion",
+    "category": {
+      "$oid": "62cfe23432b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "68a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce33550d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce338a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce50d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f02b6772-7b31-438c-a248-46304d6d689c/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a0db0c43-eda2-43d6-85ff-6970ba24f241/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c094286f-fa76-45f9-8275-1b2098f656d5/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1ee4dd9b-a755-45ab-9977-25de9dd9cb40/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dc99e171-d690-424d-84fa-47f243a79533/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f5a831fc-89b0-4a96-8c98-4b8f8d4f4083/sportswear-over-oversized-cardigan-T5dSRM.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 445,
+            "price": 119,
+            "_id": {
+              "$oid": "6342c8ce3a608a9er50dd7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 251,
+            "price": 121,
+            "_id": {
+              "$oid": "6342c8ce3a608a9te4t50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea950d4we47e803e"
+        }
+      },
+      {
+        "sku": "sw220613898443385s36738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cc6624c5-ad9f-46ef-b404-fe0f7c122932/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6fa0acb4-3d49-4876-b282-159db60205f4/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c46d59ae-fc37-42e6-a8e8-763645feecc7/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/02f426ed-41e3-4510-b099-54135b8347d4/sportswear-over-oversized-cardigan-T5dSRM.png",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d3dae1f2-e9e2-441c-94c6-94d39bb5b9a9/sportswear-over-oversized-cardigan-T5dSRM.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 125,
+            "price": 120,
+            "_id": {
+              "$oid": "62c4711c0621444ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 144,
+            "price": 125,
+            "_id": {
+              "$oid": "62c4711c062128d591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 123,
+            "price": 126,
+            "_id": {
+              "$oid": "62c4711c0621284591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 129,
+            "_id": {
+              "$oid": "62c4711cd06212d591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c0621s284491af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083a950d7e8036"
+    },
+    "color": "red",
+    "Shipping": true,
+    "name": "Nike DNA Crossover",
+    "description": "Men's Dri-FIT Short-Sleeve Basketball Top",
+    "brand": "Nike",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342cds0d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a32e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce32d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "634223d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce323d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce232e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce2303d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/70cb2216-6474-4538-84cd-b0d1e23d3dc9/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5cce1bdd-2c59-4f1a-b98f-7d7b83564493/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2948a5c1-32c2-4875-b739-2c2659b668f0/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/91923e8f-3119-4b89-abd0-a9d310993114/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/465d6daa-89fa-4fd5-b71a-84e3288b3b41/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-11.jpg"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 99,
+            "_id": {
+              "$oid": "6342c8ce3a608332d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 102,
+            "_id": {
+              "$oid": "6342c8ce3a63d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce223803e"
+        }
+      },
+      {
+        "sku": "sw220632885s36738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3cac70dd-d6b8-40fa-97c8-ef3a1ad7cee3/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/84d8bb39-fa68-442d-935c-c750a57d0f9e/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/db64a618-00d9-4ffe-8e4e-075c0c0c4905/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cd8c9815-0e06-4738-80a7-de64eafc7636/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/caf1ed53-26fe-46c0-984d-a858ddbe6d82/dna-crossover-dri-fit-short-sleeve-basketball-top-K84kT6.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 195,
+            "price": 99,
+            "_id": {
+              "$oid": "62c47ew44ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 102,
+            "_id": {
+              "$oid": "62c471244d591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 0,
+            "price": 111,
+            "_id": {
+              "$oid": "62c4711c06244591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 105,
+            "_id": {
+              "$oid": "62c471238444a44d591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c23d591af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a534950d7e8036"
+    },
+    "color": "pink",
+    "Shipping": true,
+    "name": "Casio Women's Watch LTP-V300L-4AUDF",
+    "description": "Casio Women's Watch LTP-V300L-4AUDF",
+    "brand": "Casio",
+    "slug": "Jewlery & Watches",
+    "category": {
+      "$oid": "62cfeb1e1378d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c823d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce338038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce33039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce37e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c83e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c83627e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8c3e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://media.shopdongho.com/2018/09/casio-ltp-v300l-4audf.jpg",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/02/dong-ho-casio-ltp-v300l-4audf-nu-pin-quartz-day-da-7.jpeg",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/02/dong-ho-casio-ltp-v300l-4audf-nu-pin-quartz-day-da-8.jpeg",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/02/dong-ho-casio-ltp-v300l-4audf-nu-pin-quartz-day-da-9.jpeg",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/02/dong-ho-casio-ltp-v300l-4audf-nu-pin-quartz-day-da-4.jpeg",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/02/dong-ho-casio-ltp-v300l-4audf-nu-pin-quartz-day-da-3.jpeg",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://media.shopdongho.com/2023/02/dong-ho-casio-ltp-v300l-4audf-nu-pin-quartz-day-da.jpeg"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 77,
+            "price": 400,
+            "_id": {
+              "$oid": "6342c83er503d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 80,
+            "_id": {
+              "$oid": "6342c8c33t50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a6030d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3464f8036"
+    },
+    "color": "#3deb34",
+    "Shipping": false,
+    "name": "Nike Primary Studio '72",
+    "description": "Men's Dri-FIT Short-Sleeve Versatile Top",
+    "brand": "Nike",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfeb1e13f32232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c83f7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a63fe8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a60f3e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8c3f50d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a3f0d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c3f0d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363f50d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6df7cce5-6048-4794-9f9c-71a9cb88fdef/primary-studio-72-dri-fit-short-sleeve-versatile-top-q07hGD.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/15bfb6f3-2ad2-4657-a9a7-fbcb8185791f/primary-studio-72-dri-fit-short-sleeve-versatile-top-q07hGD.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b33781a-157e-4b8a-9cf8-78a159701ae1/primary-studio-72-dri-fit-short-sleeve-versatile-top-q07hGD.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b33781a-157e-4b8a-9cf8-78a159701ae1/primary-studio-72-dri-fit-short-sleeve-versatile-top-q07hGD.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ff472a47-0482-472e-9ece-b828538f18f7/primary-studio-72-dri-fit-short-sleeve-versatile-top-q07hGD.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c530567-d4de-497c-a281-2bb1ee8ad189/primary-studio-72-dri-fit-short-sleeve-versatile-top-q07hGD.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab281de1-ec05-460c-92b4-e6ac63b15a9c/primary-studio-72-dri-fit-short-sleeve-versatile-top-q07hGD.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 79,
+            "_id": {
+              "$oid": "6342c8ce3a3fd7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 79,
+            "_id": {
+              "$oid": "6342c8ce3aegrrge7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a4y950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62c4711c06344ad591a1"
+    },
+    "color": "orange",
+    "Shipping": true,
+    "name": "Jordan",
+    "description": "Women's Woven Crop Top",
+    "brand": "Nike",
+    "slug": "Women's Fashion",
+    "category": {
+      "$oid": "62c46ff32ad59193"
+    },
+    "subCategories": [
+      {
+        "$oid": "62c46ffd06212ew199"
+      }
+    ],
+    "details": [
+      {
+        "name": "Style",
+        "value": "Boho",
+        "_id": {
+          "$oid": "62c4711c328444ad591a2"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plants, All Over Print",
+        "_id": {
+          "$oid": "62c4711c0344ad591a3"
+        }
+      },
+      {
+        "name": "Details",
+        "value": "Knot",
+        "_id": {
+          "$oid": "62c4711c3ad591a4"
+        }
+      },
+      {
+        "name": "Type",
+        "value": "A Line",
+        "_id": {
+          "$oid": "62c4711c06212391a5"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Square Neck",
+        "_id": {
+          "$oid": "62c4713d591a6"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "62c4711c063d591a7"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Puff Sleeve",
+        "_id": {
+          "$oid": "62c4711c3591a8"
+        }
+      },
+      {
+        "name": "Waist Line",
+        "value": "High Waist",
+        "_id": {
+          "$oid": "62c4711c3d591a9"
+        }
+      },
+      {
+        "name": "Hem Shaped",
+        "value": "Flared",
+        "_id": {
+          "$oid": "623444ad591aa"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Long",
+        "_id": {
+          "$oid": "62c4711c0624ad591ab"
+        }
+      },
+      {
+        "name": "Fit Type",
+        "value": "Regular Fit",
+        "_id": {
+          "$oid": "62c4711c44ad591ac"
+        }
+      },
+      {
+        "name": "Fabric",
+        "value": "Non-Stretch",
+        "_id": {
+          "$oid": "62c47114ad591ad"
+        }
+      },
+      {
+        "name": "Material",
+        "value": "Polyester",
+        "_id": {
+          "$oid": "62c4711c54ad591ae"
+        }
+      }
+    ],
+    "questions": [],
+    "subProducts": [
+      {
+        "sku": "sw22061385738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4f6cc419-73d8-4178-9c48-1e1d30751abe/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e3967213-beb5-4ee0-942d-ff20dfcaa78b/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dd917def-805c-4f64-bb6a-2ad60b9f9c7e/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c1902687-6f2a-4946-ac30-d189a47bd414/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a0ad1f89-ccda-4271-a73b-57a90a9cd896/jordan-woven-crop-top-7ll20B.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 195,
+            "price": 99,
+            "_id": {
+              "$oid": "62c4711ct4ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 101,
+            "_id": {
+              "$oid": "62c4711c04ad591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 230,
+            "price": 105,
+            "_id": {
+              "$oid": "62c4714444ad591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 107,
+            "_id": {
+              "$oid": "62c4711c4ad591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c064ad591af"
+        }
+      },
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f40e7ebf-b245-4025-972d-cb5219653236/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/qbwsyo2xg26zxyygtuzs"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/636b9bb9-51f4-4ce8-a3a5-87204f06bc22/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/fxuhya9s4usojgdfune9"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2ce76c24-cbba-4842-b502-c93709eed2f1/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/acscvdlnkyt8r7kifsw5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c4314ff9-ed94-4f4a-a774-0bff8e26443e/jordan-woven-crop-top-7ll20B.png",
+            "public_url": "products/suok4nz4ocdmegkzmqvs"
+          }
+        ],
+        "sku": "vc24988545614",
+        "description_images": [],
+        "color": {
+          "color": "#dac4ac",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ebf2db43-cab2-459b-b1f5-5a2818c67118/jordan-woven-crop-top-7ll20B.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 1456,
+            "price": 99,
+            "_id": {
+              "$oid": "62c48196747b52aa1f9e3"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 1700,
+            "price": 101,
+            "_id": {
+              "$oid": "62c481967d552aa1f9e4"
+            }
+          }
+        ],
+        "discount": 10,
+        "_id": {
+          "$oid": "62c48196752aa1f9e2"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-07-05T17:13:00.324Z"
+    },
+    "updatedAt": {
+      "$date": "2022-07-09T09:44:46.823Z"
+    },
+    "__v": 17,
+    "numReviews": 5,
+    "rating": 3.5,
+    "refundPolicy": "30 days",
+    "reviews": [],
+    "shipping": "2"
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce335d7e8036"
+    },
+    "color": "#333",
+    "Shipping": true,
+    "name": "Jordan Flight Essentials",
+    "description": "Men's T-Shirt",
+    "brand": "Nike",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfe232232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c327e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8c2350d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c82350d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce323d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce323d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a230d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce3623d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/44c78bcf-3afa-4d09-b45a-7c02e3ae9d8d/jordan-flight-essentials-t-shirt-dlsvff.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1dd7c134-c66e-425b-b9e1-360cbc82e9f8/jordan-flight-essentials-t-shirt-dlsvff.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dc06550e-9d68-4cf5-a38e-c917b46be004/jordan-flight-essentials-t-shirt-dlsvff.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8a4e458c-1399-481d-8bf3-7f52c1eb56ed/jordan-flight-essentials-t-shirt-dlsvff.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bcda33d0-d6db-4f13-9f77-7e94e481ee22/jordan-flight-essentials-t-shirt-dlsvff.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 65,
+            "_id": {
+              "$oid": "6342c8ce34er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 65,
+            "_id": {
+              "$oid": "6342c8c4a9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6344ea950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a56083a950d7e8036"
+    },
+    "color": "yellow",
+    "Shipping": true,
+    "name": "Olym Pianus Men's Watch",
+    "description": "Olym Pianus Men's Watch",
+    "brand": "Olym Pianus",
+    "slug": "Jewlery & Watches",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ce3a608a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3a60dd8a950d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce335a608a950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8ce336a608a950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a603468a950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a60468a950d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363a608a950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-3.jpg",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-5.jpg",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-8.jpg",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-7.jpg",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-4.jpg",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-3.jpg",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://media.shopdongho.com/2023/07/dong-ho-olym-pianus-op990-45adgk-gl-t-nam-co-tu-dong-day-inox-thep-khong-gi-05-2023-11.jpg"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 400,
+            "_id": {
+              "$oid": "6342c8ce3a608a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 415,
+            "_id": {
+              "$oid": "6342c8ce3a608a9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a608yea950d7e803e"
+        }
+      },
+      {
+        "sku": "sw22061389885s36738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://media.shopdongho.com/2023/03/dong-ho-olym-pianus-op68322l29sk-t-nu-quartz-day-inox-thep-khong-gi-5.jpg",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/03/dong-ho-olym-pianus-op68322l29sk-t-nu-quartz-day-inox-thep-khong-gi-6.jpg",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/03/dong-ho-olym-pianus-op68322l29sk-t-nu-quartz-day-inox-thep-khong-gi-9.jpg",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://media.shopdongho.com/2023/03/dong-ho-olym-pianus-op68322l29sk-t-nu-quartz-day-inox-thep-khong-gi-10.jpg",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://media.shopdongho.com/2023/03/dong-ho-olym-pianus-op68322l29sk-t-nu-quartz-day-inox-thep-khong-gi-10.jpg"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 15,
+            "price": 17,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 19,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 0,
+            "price": 21,
+            "_id": {
+              "$oid": "62c4711c062128444ad591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 28,
+            "_id": {
+              "$oid": "62c4711cd062128444ad591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711c0621s28444ad591af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a3g57e8036"
+    },
+    "color": "green",
+    "Shipping": false,
+    "name": "Jordan Sport",
+    "description": "Women's Medium-Support Padded Jumpman Bra",
+    "brand": "Nike",
+    "slug": "Women's Fashion",
+    "category": {
+      "$oid": "62cfeb1e119hedb478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8ceev7"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3avr7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8ce3evre950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342cerva950d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ceerv50d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3a6evd7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363erv950d7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d040cfd7-ddcd-46d3-b469-94abdb2b3909/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/09827a44-cbbe-4d2e-9ccd-dae678bab353/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d193f35-482e-437c-afc0-627c592f0425/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad936509-9b3a-4d65-90fc-c488c68a6c10/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cf11282b-2635-490c-83c8-6bcc754e6460/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/980abf90-cd83-458e-a588-828a3d7500d9/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0fefc819-d2db-44e5-8c27-da058d365f7a/jordan-sport-support-padded-jumpman-bra-V8cFms.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 59,
+            "_id": {
+              "$oid": "63423f39er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 59,
+            "_id": {
+              "$oid": "6342cvea9tt50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a6dssde50d7e803e"
+        }
+      },
+      {
+        "sku": "sw2206sd36738",
+        "discount": 0,
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/de007c83-78c7-4b55-a35b-057229b7e7ab/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/j9h8giisorvqwnxgy6lx"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ac20cd93-7a8d-4d80-b089-489767099189/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/tpwwbcdjxdzk1qok7jqu"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b1eeb1f2-699a-4003-852f-78c5fdcfadb0/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/lopvo38miankt6j0usaz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32765e91-c624-4cce-ab33-166a8f2bfc3c/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+            "public_url": "products/mjrdih9alzizp5lkb0ty"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ecd297",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eef5d135-e710-4c0d-a51a-753f02bc208c/jordan-sport-support-padded-jumpman-bra-V8cFms.png"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 15,
+            "price": 59,
+            "_id": {
+              "$oid": "62c4711c05gg554ad591b0"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 1414,
+            "price": 59,
+            "_id": {
+              "$oid": "62c4711c062g55gad591b1"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 220,
+            "price": 59,
+            "_id": {
+              "$oid": "62c4711c4g4g444ad591b2"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 1423,
+            "price": 59,
+            "_id": {
+              "$oid": "62c47114f444ad591b3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "62c4711ceffe8444ad591af"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3a5608vdvcde8036"
+    },
+    "color": "yellow",
+    "Shipping": true,
+    "name": "Los Angeles Lakers Icon Edition 2022/23",
+    "description": "Men's Nike Dri-FIT NBA Swingman Jersey",
+    "brand": "Nike",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfeb1e11342232b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342c8dfd950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3adfd7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8cedf950d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8cedf0d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8df50d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8cedfe803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363df803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9aa1b6a-4385-4233-96b6-b03f5c83d1a6/los-angeles-lakers-icon-edition-2022-23-dri-fit-nba-swingman-jersey-SVQpm7.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b9927fdc-ed13-4f38-af1e-4cd3f19f5359/los-angeles-lakers-icon-edition-2022-23-dri-fit-nba-swingman-jersey-SVQpm7.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b46db73b-2baf-47af-88e0-ff8fb4efac6e/los-angeles-lakers-icon-edition-2022-23-dri-fit-nba-swingman-jersey-SVQpm7.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b46db73b-2baf-47af-88e0-ff8fb4efac6e/los-angeles-lakers-icon-edition-2022-23-dri-fit-nba-swingman-jersey-SVQpm7.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 149,
+            "_id": {
+              "$oid": "6342c8ce3aeee803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 149,
+            "_id": {
+              "$oid": "6342c8ceef50d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce3a6efe7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342cdvdvdf83a950d7e8036"
+    },
+    "color": "#fff",
+    "Shipping": false,
+    "name": "Jordan Artist Series by Darien Birks",
+    "description": "Women's Fleece Crew-Neck Sweatshirt",
+    "brand": "Nike",
+    "slug": "Women's Fashion",
+    "category": {
+      "$oid": "62cfeb1sdc78d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "63dc08a950d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8csdc7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8cesd7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8cescdd7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8csc0d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8cesde803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8cesdc7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b2ef178e-0122-4c02-83b7-51fb69989d18/jordan-artist-series-by-darien-birks-fleece-crew-neck-sweatshirt-99xflQ.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/32e98749-53c7-474a-b811-b5609e7f8e97/jordan-artist-series-by-darien-birks-fleece-crew-neck-sweatshirt-99xflQ.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ea3f5fd2-3c8c-4493-b08b-d31788eeb8fd/jordan-artist-series-by-darien-birks-fleece-crew-neck-sweatshirt-99xflQ.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b832999a-61ee-46ce-9657-059ddff1c3b1/jordan-artist-series-by-darien-birks-fleece-crew-neck-sweatshirt-99xflQ.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5c90e5c9-4afd-4adc-b5ba-8a9e0503f234/jordan-artist-series-by-darien-birks-fleece-crew-neck-sweatshirt-99xflQ.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/56541b01-b237-4adb-9ba0-0e1fdb9a2a3f/jordan-artist-series-by-darien-birks-fleece-crew-neck-sweatshirt-99xflQ.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a7a21196-653d-43e9-8099-72cec573ad5c/jordan-artist-series-by-darien-birks-fleece-crew-neck-sweatshirt-99xflQ.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 125,
+            "_id": {
+              "$oid": "6342c8cedfdd7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 125,
+            "_id": {
+              "$oid": "6342c8ce3340d7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ce43a950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sdsvdsvd50d7e8036"
+    },
+    "color": "#333",
+    "Shipping": true,
+    "name": "Jordan Essentials",
+    "description": "Men's Woven Jacket",
+    "brand": "Nike",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfeb1dvdvd32b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "633342cdvdvd50d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ddvd0d7e8038"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8cedvddvd50d7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8cedvvd50d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ceddvdv0d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8ce3addv03c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce363dv03d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/159e6b1f-bf61-465a-ab79-7062654f14d1/jordan-essentials-woven-jacket-ZWSFmz.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c169b1c-8c97-4885-8c37-3ebb5511fb47/jordan-essentials-woven-jacket-ZWSFmz.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1a0337b6-ee2b-494e-9e35-a6df7fe7850c/jordan-essentials-woven-jacket-ZWSFmz.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4c4280c8-cd16-4ad6-acbf-0cc1d7da5b21/jordan-essentials-woven-jacket-ZWSFmz.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9aaab78b-edcb-46b8-9e28-4ff02fc308e8/jordan-essentials-woven-jacket-ZWSFmz.png",
+            "public_url": "products/etlwzefambmwr2j3abf5"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/01686a39-de6e-49f0-8f6c-137a52af802c/jordan-essentials-woven-jacket-ZWSFmz.png",
+            "public_url": "products/skjcagnshk0sf0om7oup"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fefb3c1f-5e94-4bf8-8e0c-9ea245404283/jordan-essentials-woven-jacket-ZWSFmz.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 125,
+            "_id": {
+              "$oid": "63423ff3a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 125,
+            "_id": {
+              "$oid": "63423dd7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8ceefrefr0d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342c8sce3adfvd7e8036"
+    },
+    "color": "pink",
+    "Shipping": true,
+    "name": "Nike One Swoosh",
+    "description": "Women's Dri-FIT Short-Sleeve Running Top",
+    "brand": "Nike",
+    "slug": "Women's Fashion",
+    "category": {
+      "$oid": "62cfebdscds2b478d6"
+    },
+    "subCategories": [],
+
+    "details": [
+      {
+        "name": "Color",
+        "value": "Bronze",
+        "_id": {
+          "$oid": "63334dsc50d7e8037"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Party",
+        "_id": {
+          "$oid": "6342c8ce3sdc38"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plain",
+        "_id": {
+          "$oid": "6342c8cdsd7e8039"
+        }
+      },
+      {
+        "name": "Neckline",
+        "value": "Round Neck",
+        "_id": {
+          "$oid": "6342c8csdc0d7e803a"
+        }
+      },
+      {
+        "name": "Sleeve Length",
+        "value": "Short Sleeve",
+        "_id": {
+          "$oid": "6342c8ds950d7e803b"
+        }
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Regular Sleeve",
+        "_id": {
+          "$oid": "6342c8dds50d7e803c"
+        }
+      },
+      {
+        "name": "Length",
+        "value": "Regular",
+        "_id": {
+          "$oid": "6342c8ce36sd7e803d"
+        }
+      }
+    ],
+    "questions": [],
+    "refundPolicy": "30 days",
+    "rating": 0,
+    "numReviews": 0,
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/275cd5e4-7dad-4a65-99fe-47bd490e6778/one-swoosh-dri-fit-short-sleeve-running-top-xlC30b.png",
+            "public_url": "products/qwpijk74an4hss8pcefr"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f82f85d7-4e93-4b62-9600-bfbcbab64411/one-swoosh-dri-fit-short-sleeve-running-top-xlC30b.png",
+            "public_url": "products/moxnvgqyuavpnthbysey"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c63ec9da-66bc-4274-836e-be9449495842/one-swoosh-dri-fit-short-sleeve-running-top-xlC30b.png",
+            "public_url": "products/ul0yyluoxu7oz9ywmrfl"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9e31d6be-8217-4510-b63a-f83b6d63f214/one-swoosh-dri-fit-short-sleeve-running-top-xlC30b.png",
+            "public_url": "products/rmuo6ooadi0ukfziq9sz"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#601806",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d4959121-5a7e-49a0-81d5-a660a3991667/one-swoosh-dri-fit-short-sleeve-running-top-xlC30b.png"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 145,
+            "price": 59,
+            "_id": {
+              "$oid": "63fdg8a9er50d7e803f"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 201,
+            "price": 59,
+            "_id": {
+              "$oid": "6342c8dfdvd7e8040"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342c8cdvdea950d7e803e"
+        }
+      }
+    ],
+
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:12:46.375Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6342cc683a608a950d7e804d"
+    },
+    "color": "#34ebe8",
+    "Shipping": true,
+    "name": "Men Plaid Drawstring Waist Pants",
+    "description": "Men Plaid Drawstring Waist Pants",
+    "brand": "Drawstring ",
+    "slug": "Men's Fashion",
+    "category": {
+      "$oid": "62cfeb1e119f0cd432b478d6"
+    },
+    "subCategories": [],
+    "details": [
+      {
+        "name": "Color",
+        "value": "White",
+        "_id": {
+          "$oid": "6342cc683a608a950d7e804e"
+        }
+      },
+      {
+        "name": "Style",
+        "value": "Preppy",
+        "_id": {
+          "$oid": "6342cc683a608a950d7e804f"
+        }
+      },
+      {
+        "name": "Pattern Type",
+        "value": "Plaid",
+        "_id": {
+          "$oid": "6342cc683a608a950d7e8050"
+        }
+      },
+      {
+        "name": "Type",
+        "value": "Straight Leg",
+        "_id": {
+          "$oid": "6342cc683a608a950d7e8051"
+        }
+      },
+      {
+        "name": "Closure Type",
+        "value": "Drawstring Waist",
+        "_id": {
+          "$oid": "6342cc683a608a950d7e8052"
+        }
+      },
+      {
+        "name": "",
+        "value": "",
+        "_id": {
+          "$oid": "6342cc683a608a950d7e8053"
+        }
+      }
+    ],
+    "questions": [],
+    "shipping": 0,
+    "subProducts": [
+      {
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322060/products/znlfwkgbwb6plgscdzvu.webp",
+            "public_url": "products/znlfwkgbwb6plgscdzvu"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322066/products/xjqhhfqvy9nio4qjwwbq.webp",
+            "public_url": "products/xjqhhfqvy9nio4qjwwbq"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322071/products/jyi1njkdvaeukx03efsh.webp",
+            "public_url": "products/jyi1njkdvaeukx03efsh"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322076/products/eir1mjcccjubrltc68ge.webp",
+            "public_url": "products/eir1mjcccjubrltc68ge"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322081/products/hoefdn0w4omk8t1plwde.webp",
+            "public_url": "products/hoefdn0w4omk8t1plwde"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322086/products/ewizfpvpxpsyc26bet43.webp",
+            "public_url": "products/ewizfpvpxpsyc26bet43"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#393736",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322087/products/hexxvihjei0lfxcw1ayh.webp"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 147,
+            "price": 142,
+            "_id": {
+              "$oid": "6342cc683a608a950d7e8055"
+            }
+          },
+          {
+            "size": "M",
+            "qty": 52,
+            "price": 142,
+            "_id": {
+              "$oid": "6342cc683a608a950d7e8056"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 174,
+            "price": 150,
+            "_id": {
+              "$oid": "6342cc683a608a950d7e8057"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 20,
+            "price": 231,
+            "_id": {
+              "$oid": "6342cc683a608a950d7e8058"
+            }
+          },
+          {
+            "size": "XXL",
+            "qty": 12,
+            "price": 231,
+            "_id": {
+              "$oid": "6342cc683a608a950d7e8059"
+            }
+          }
+        ],
+        "discount": 36,
+        "_id": {
+          "$oid": "6342cc683a608a950d7e8054"
+        }
+      },
+      {
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322409/products/ndkcswxriymtusa86ooa.webp",
+            "public_url": "products/ndkcswxriymtusa86ooa"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322413/products/iaemqcjgacwivku1lmbn.webp",
+            "public_url": "products/iaemqcjgacwivku1lmbn"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322419/products/oh7zribnzkafgjhjzybk.webp",
+            "public_url": "products/oh7zribnzkafgjhjzybk"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322447/products/geeq1dchfrczswej1wqz.webp",
+            "public_url": "products/geeq1dchfrczswej1wqz"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322450/products/ls7hpxb4tv1ukwmd2ve3.webp",
+            "public_url": "products/ls7hpxb4tv1ukwmd2ve3"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322453/products/mvmhsj062fkvei7xghdy.webp",
+            "public_url": "products/mvmhsj062fkvei7xghdy"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#ac6434",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322453/products/yehgsjdk1y5yv89o6pje.webp"
+        },
+        "sizes": [
+          {
+            "size": "S",
+            "qty": 142,
+            "price": 119,
+            "_id": {
+              "$oid": "6342cdd63a608a950d7e8064"
+            }
+          },
+          {
+            "size": "XXL",
+            "qty": 50,
+            "price": 125,
+            "_id": {
+              "$oid": "6342cdd63a608a950d7e8065"
+            }
+          }
+        ],
+        "discount": 5,
+        "_id": {
+          "$oid": "6342cdd63a608a950d7e8063"
+        }
+      },
+      {
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322641/products/fdmcckl6dahylgrg2kvw.webp",
+            "public_url": "products/fdmcckl6dahylgrg2kvw"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322645/products/vl6we95vbmkaebpsl9em.webp",
+            "public_url": "products/vl6we95vbmkaebpsl9em"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322650/products/viho1qeg4flfavlxwbhu.webp",
+            "public_url": "products/viho1qeg4flfavlxwbhu"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322654/products/yrmqwwtvfbt5vz6bfntb.webp",
+            "public_url": "products/yrmqwwtvfbt5vz6bfntb"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322659/products/u5whjyi88uijtrwusiah.webp",
+            "public_url": "products/u5whjyi88uijtrwusiah"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#f4d0a5",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322660/products/wvtduq5v2ocs5zc9mjng.webp"
+        },
+        "sizes": [
+          {
+            "size": "L",
+            "qty": 56,
+            "price": 162,
+            "_id": {
+              "$oid": "6342cea53a608a950d7e806f"
+            }
+          },
+          {
+            "size": "XL",
+            "qty": 123,
+            "price": 189,
+            "_id": {
+              "$oid": "6342cea53a608a950d7e8070"
+            }
+          },
+          {
+            "size": "3XL",
+            "qty": 98,
+            "price": 250,
+            "_id": {
+              "$oid": "6342cea53a608a950d7e8071"
+            }
+          }
+        ],
+        "discount": 11,
+        "_id": {
+          "$oid": "6342cea53a608a950d7e806e"
+        }
+      },
+      {
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322911/products/f8nu9awqcpykmbqypbsd.webp",
+            "public_url": "products/f8nu9awqcpykmbqypbsd"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322916/products/t8fvr1ziuo2p1hnqqsht.webp",
+            "public_url": "products/t8fvr1ziuo2p1hnqqsht"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322920/products/wdfsepspohamr41m2zah.webp",
+            "public_url": "products/wdfsepspohamr41m2zah"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322926/products/w00nsgasdsu5zjogwdkd.webp",
+            "public_url": "products/w00nsgasdsu5zjogwdkd"
+          },
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322931/products/zmdvyqbrahdhyb6xklr8.webp",
+            "public_url": "products/zmdvyqbrahdhyb6xklr8"
+          }
+        ],
+        "description_images": [],
+        "color": {
+          "color": "#3e3e2d",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1665322932/products/g5bbt39vdn1sfyveuhck.webp"
+        },
+        "sizes": [
+          {
+            "size": "M",
+            "qty": 58,
+            "price": 120,
+            "_id": {
+              "$oid": "6342cfb53a608a950d7e807b"
+            }
+          },
+          {
+            "size": "L",
+            "qty": 69,
+            "price": 161,
+            "_id": {
+              "$oid": "6342cfb53a608a950d7e807c"
+            }
+          },
+          {
+            "size": "3XL",
+            "qty": 23,
+            "price": 270,
+            "_id": {
+              "$oid": "6342cfb53a608a950d7e807d"
+            }
+          }
+        ],
+        "discount": 26,
+        "_id": {
+          "$oid": "6342cfb53a608a950d7e807a"
+        }
+      }
+    ],
+    "numReviews": 5,
+    "rating": 3.5,
+    "refundPolicy": "30 days",
+    "reviews": [
+      {
+        "reviewBy": {
+          "$oid": "62b33178fbcc6f0282db0606"
+        },
+        "rating": 1,
+        "review": "aaaaaaaaaaaaaaa",
+        "size": "S",
+        "style": {
+          "color": "#dac4ac",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045396/products/ouh3i2klgrmwluexm3q9.webp"
+        },
+        "fit": "Small",
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657145489/reviews/whcchkvkbd4dypptoccx.webp",
+            "public_url": "reviews/whcchkvkbd4dypptoccx"
+          }
+        ],
+        "_id": {
+          "$oid": "62c6089247a21fb57bb8b234"
+        },
+        "createdAt": {
+          "$date": "2022-07-06T22:11:30.149Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-09T09:44:46.559Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62c69fc002820c409dcce9ea"
+        },
+        "rating": 4,
+        "review": "i like it  a lot but a bit large for me for size L",
+        "size": "L",
+        "style": {
+          "color": "#dac4ac",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045396/products/ouh3i2klgrmwluexm3q9.webp"
+        },
+        "fit": "Large",
+        "images": [],
+        "_id": {
+          "$oid": "62c6a03702820c409dcce9f2"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T08:58:31.646Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T08:58:31.646Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62a22b5cd0e120974f5c866e"
+        },
+        "rating": 5,
+        "review": "amaaaaaaaaaaaaaaaaaaaaaaazing",
+        "size": "L",
+        "style": {
+          "color": "#dac4ac",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657045396/products/ouh3i2klgrmwluexm3q9.webp"
+        },
+        "fit": "Large",
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657189685/reviews/i6wmqtwnjcolkguit6qi.webp",
+            "public_url": "reviews/i6wmqtwnjcolkguit6qi"
+          }
+        ],
+        "_id": {
+          "$oid": "62c6b13402820c409dccea08"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T10:11:00.304Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T10:28:07.389Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62a22d98d0e120974f5c8671"
+        },
+        "rating": 2.5,
+        "review": "aaaaaaaa",
+        "size": "S",
+        "style": {
+          "color": "#ecd297",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041179/products/ac3homl0yeimydql5rq4.webp"
+        },
+        "fit": "True to size",
+        "images": [],
+        "_id": {
+          "$oid": "62c6d15802820c409dccea3d"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T12:28:08.226Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T12:30:52.277Z"
+        }
+      },
+      {
+        "reviewBy": {
+          "$oid": "62a2281cd0e120974f5c866c"
+        },
+        "rating": 5,
+        "review": "bbbbbbbbbbbbbb",
+        "size": "S",
+        "style": {
+          "color": "#ecd297",
+          "image": "https://res.cloudinary.com/dmhcnhtng/image/upload/v1657041179/products/ac3homl0yeimydql5rq4.webp"
+        },
+        "fit": "True to size",
+        "images": [],
+        "_id": {
+          "$oid": "62c6d29602820c409dccea5e"
+        },
+        "createdAt": {
+          "$date": "2022-07-07T12:33:26.719Z"
+        },
+        "updatedAt": {
+          "$date": "2022-07-07T12:33:26.719Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-10-09T13:28:08.507Z"
+    },
+    "updatedAt": {
+      "$date": "2022-10-09T13:42:13.121Z"
+    },
+    "__v": 0
+  }
+]

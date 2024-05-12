@@ -1,0 +1,12 @@
+.share {
+    display: flex;
+    gap: 10px;
+    margin-top: 1rem;
+    svg {
+        border-radius: 50%;
+        transition: transform 0.1 ease;
+        &:hover {
+            transform: scale(1.1);
+        }
+    }
+}
